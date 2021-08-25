@@ -1,0 +1,15 @@
+void main(){
+  
+    String nama = "Otriani zendrato";
+    int umur = 25;
+    double tinggi = 150;
+    bool isMenikah = false;
+
+   
+    var alamat = "Medan, Sumatera utara";
+
+  
+    print("Nama saya $nama, Umur $umur tahun, Tinggi sekitar $tinggi cm.");
+    print("Menikah: $isMenikah");
+    print("Alamat: $alamat");
+}
